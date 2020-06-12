@@ -1,0 +1,300 @@
+@xsum.test.0.bert.pt [0]:
+the women 's euro 2017 qualifier between northern ireland and the czech republic in lurgan on friday was postponed after a serious accident on the m1 .
+
+@xsum.test.0.bert.pt [1]:
+a car park in east belfast has been closed to the public by young men building bonfires .
+
+@xsum.test.0.bert.pt [2]:
+us tennis star venus williams has been involved in a car accident that led to the death of a 78-year-old man .
+
+@xsum.test.0.bert.pt [3]:
+ghana has been told by an international tribunal not to begin any new offshore drilling for oil in disputed waters with the ivory coast .
+
+@xsum.test.0.bert.pt [4]:
+theresa may is coming under pressure to say whether she knew about a reported misfire of the uk 's nuclear weapons system before a crucial commons vote .
+
+@xsum.test.0.bert.pt [5]:
+a gas extraction method which triggered two earth tremors near blackpool last year should not cause earthquakes or contaminate water but rules governing it will need tightening , experts say .
+
+@xsum.test.0.bert.pt [6]:
+on the first day in his new job , choe peng sum was given a fairly simple brief : `` just go make us a lot of money . ''
+
+@xsum.test.0.bert.pt [7]:
+two hillsborough campaigners have been appointed cbe in the new year honours .
+
+@xsum.test.0.bert.pt [8]:
+young uk rapper nadia rose has taken fifth place on the bbc 's sound of 2017 list , which showcases emerging artists for the coming 12 months .
+
+@xsum.test.0.bert.pt [9]:
+the bbc has denied claims award-winning series planet earth ii faked a nail-biting scene showing a baby iguana being chased by racer snakes .
+
+@xsum.test.0.bert.pt [10]:
+great britain failed to qualify for the men 's under-21 world handball championship after losing all three qualifying games at kent 's medway park .
+
+@xsum.test.0.bert.pt [11]:
+italian serie a side atalanta have re-signed midfielder marten de roon from middlesbrough for an undisclosed fee , 14 months after selling him to boro .
+
+@xsum.test.0.bert.pt [12]:
+the five sisters in livingston are an imposing reminder of west lothian 's industrial past - huge mounds of discards from the old shale mines that once dominated the economy - and community life - here .
+
+@xsum.test.0.bert.pt [13]:
+jeremy corbyn has promised labour will work with business leaders if they `` live up to their side of the deal '' .
+
+@xsum.test.0.bert.pt [14]:
+china has deployed surface-to-air missiles on a disputed island in the south china sea , taiwan says .
+
+@xsum.test.0.bert.pt [15]:
+tottenham are close to a deal to play home games at wembley in the 2017-18 season , says football association chairman greg dyke .
+
+@xsum.test.0.bert.pt [16]:
+sir tom jones is to return as one of the judges on talent show the voice uk when it moves to itv next year .
+
+@xsum.test.0.bert.pt [17]:
+head teachers have warned that intimidation is still continuing after the investigations into the so-called trojan horse scandal .
+
+@xsum.test.0.bert.pt [18]:
+the lawn tennis association -lrb- lta -rrb- is leading a # 250m investment to improve grassroots facilities .
+
+@xsum.test.0.bert.pt [19]:
+goal hero rabin omar made headlines when his club from the fourth tier of scottish football dumped a premiership side out of the scottish cup .
+
+@xsum.test.0.bert.pt [20]:
+a security alert in the centre of larne , county antrim , has ended and been declared a hoax .
+
+@xsum.test.0.bert.pt [21]:
+a woman who set a `` honey trap '' for a professional gambler who was kicked to death for his winnings has been jailed for 16 years .
+
+@xsum.test.0.bert.pt [22]:
+the collapsed retailer bhs is to re-launch as an online shop , selling some of the most popular items previously available on its website .
+
+@xsum.test.0.bert.pt [23]:
+exeter city player-coach danny butterfield says his playing career is coming to an end .
+
+@xsum.test.0.bert.pt [24]:
+several people have been injured in a three-car collision on the a9 near dingwall in the highlands .
+
+@xsum.test.0.bert.pt [25]:
+election night has turned out to be a night of contrasting fortunes for the conservative and unionist party .
+
+@xsum.test.0.bert.pt [26]:
+a us freelance photographer who has been held in syria for almost four years has been released , the state department said .
+
+@xsum.test.0.bert.pt [27]:
+plans to cut free parking on roads around the royal berkshire hospital have been opposed by a petition of more than 2,300 signatures .
+
+@xsum.test.0.bert.pt [28]:
+the public prosecution service has said it will not oppose an appeal by one of the so-called colombia three against a weapons conviction .
+
+@xsum.test.0.bert.pt [29]:
+holders sevilla came from behind to earn a draw against shakhtar donetsk in the first leg of their europa league semi-final in lviv .
+
+@xsum.test.0.bert.pt [30]:
+australia will no longer appoint knights and dames under its honours system , pm malcolm turnbull has said .
+
+@xsum.test.0.bert.pt [31]:
+a pro-refugee campaigner racially abused counter demonstrators at a rally to welcome syrian refugees to scotland , a court has heard .
+
+@xsum.test.0.bert.pt [32]:
+the duchess of cornwall has used some of the currency accepted by businesses in south london - known as brixton pounds - on a visit to a local market with the prince of wales .
+
+@xsum.test.0.bert.pt [33]:
+the crisis in the steel industry could signal potential problems across other core welsh industries , plaid cymru has warned .
+
+@xsum.test.0.bert.pt [34]:
+game rangers are searching for a lion which escaped from a wildlife park in south africa 's western cape province .
+
+@xsum.test.0.bert.pt [35]:
+the little children trailing round behind us rush forward in their excitement , herding me into their makeshift schoolroom .
+
+@xsum.test.0.bert.pt [36]:
+the victim of a pensioner jailed for 13 years for horrific sex attacks has told of the abuse that ruined her life .
+
+@xsum.test.0.bert.pt [37]:
+a rare spat among singapore 's first family has left citizens agog and fuelled debate on how the city-state 's founding father lee kuan yew should be remembered .
+
+@xsum.test.0.bert.pt [38]:
+a new picture of the queen to appear on coins has been unveiled .
+
+@xsum.test.0.bert.pt [39]:
+reigning champions saracens will host leicester , with exeter at home to harlequins in an all-premiership semi-final line-up in the anglo-welsh cup .
+
+@xsum.test.0.bert.pt [40]:
+gloucester reached their second european challenge cup final in three seasons as they held on to win an absorbing semi-final at la rochelle .
+
+@xsum.test.0.bert.pt [41]:
+the french government is to take steps to break up a far-right group allegedly linked to the death of a left-wing activist .
+
+@xsum.test.0.bert.pt [42]:
+the remains of dozens of people who were buried more than 200 years ago are being slowly exposed on an island in kent .
+
+@xsum.test.0.bert.pt [43]:
+the body of a 30-year-old man has been found at a flat in falkirk .
+
+@xsum.test.0.bert.pt [44]:
+nearly 20 million people in china could be exposed to water contaminated with arsenic , a study suggests .
+
+@xsum.test.0.bert.pt [45]:
+star wars and harry potter star warwick davis , who played an ewok in return of the jedi , has taken to twitter to help recover his stolen caravan .
+
+@xsum.test.0.bert.pt [46]:
+indian police have dropped sedition charges against 15 muslim men arrested for allegedly shouting `` anti-india and pro-pakistan '' slogans during the champions trophy cricket final .
+
+@xsum.test.0.bert.pt [47]:
+three youths have been arrested over the stabbing of four teenagers in clydebank .
+
+@xsum.test.0.bert.pt [48]:
+a four-month consultation which could help decide the location of the uk 's first spaceport ends on monday with one site in gwynedd being considered .
+
+@xsum.test.0.bert.pt [49]:
+england stretched their perfect record under eddie jones to 10 matches as they demolished a weary south africa at a rain-soaked twickenham .
+
+@xsum.test.3.bert.pt [0]:  
+west ham united 's final game at the boleyn ground will be an emotional occasion for everyone associated with the club .
+
+@xsum.test.3.bert.pt [12]:  
+three special school staff members were arrested after a teenage pupil was seriously injured in a swimming pool .
+
+@xsum.test.3.bert.pt [115]:  
+neglect and gross failure by hospital staff to quickly attempt resuscitation contributed to the death of an antiques roadshow expert , an inquest has ruled .
+
+@xsum.test.3.bert.pt [216]:  
+a high-profile bitcoin developer has said the crypto-currency has failed and he will no longer take part in its development .
+
+@xsum.test.3.bert.pt [322]:  
+campaigners fighting the erection of eight wind turbines in lincolnshire have taken part in a protest march ahead of a public inquiry .
+
+@xsum.test.3.bert.pt [435]:  
+the us has regained top spot from china as the biggest investor in clean energy in 2011 , according to global rankings .
+
+@xsum.test.3.bert.pt [546]:  
+police have named a 52-year-old man who died after the forklift truck he was driving toppled over .
+
+@xsum.test.3.bert.pt [658]:  
+marianne vos moved into the overall lead at the women 's tour as her dutch compatriot amy pieters won stage two .
+
+@xsum.test.3.bert.pt [738]:  
+us president donald trump is expected to indicate later that he is sending more troops to afghanistan , prolonging a war-weary america 's longest conflict .
+
+@xsum.test.3.bert.pt [851]:  
+after the bomb attacks on london in july 2005 , tony blair summoned the media to downing street for a news conference .
+
+@xsum.test.3.bert.pt [993]:  
+david cameron should not become leader of nato as his `` talents do not include wisely-judging strategic issues '' , a senior conservative mp has warned .
+
+@xsum.test.3.bert.pt [1077]:  
+michael doughty earned a draw against millwall in swindon 's first game since luke williams was named manager .
+
+@xsum.test.3.bert.pt [1106]:  
+kevin brown 's hat-trick against his former club gave warrington a derby win against widnes to progress to the last eight of the challenge cup .
+
+@xsum.test.3.bert.pt [1224]:  
+jeremy corbyn has reaffirmed his desire to scrap the welfare cap after differences with his shadow cabinet , calling the policy `` devastating '' .
+
+@xsum.test.3.bert.pt [1317]:  
+a police officer has been sacked over press leaks about the `` plebgate '' affair , becoming the third met pc to be dismissed over the row .
+
+@xsum.test.3.bert.pt [1464]:  
+lord heseltine has said he would be `` very surprised '' if boris johnson became prime minister after his `` preposterous , obscene '' remarks during the european union referendum campaign .
+
+@xsum.test.4.bert.pt [0]:  
+a memorial dedicated to the jersey men who died in world war i has been unveiled in the somme region of france .
+
+@xsum.test.4.bert.pt [12]:  
+mps have called on the uk government not to cut its funding of welsh language channel s4c .
+
+@xsum.test.4.bert.pt [115]:  
+a convicted killer has been sent back to jail after he admitted carrying out a brutal attack on christmas day , months after being freed early .
+
+@xsum.test.4.bert.pt [215]:  
+retailer watt brothers has announced plans to create 350 new jobs by opening six new stores and expanding three others over the next few years .
+
+@xsum.test.4.bert.pt [323]:  
+two teenagers arrested after a 16-year-old boy suffered `` potentially life threatening injuries '' in a stabbing in brighton have been released on bail .
+
+@xsum.test.4.bert.pt [437]:  
+liberty house plans to submit a formal bid on tuesday to buy tata steel 's uk assets , which include the port talbot works employing about 4,000 people .
+
+@xsum.test.4.bert.pt [545]:  
+the queen is a `` very good mimic '' with a knack for imitating regional accents , her cousin has said .
+
+@xsum.test.4.bert.pt [657]:  
+a man has been remanded in custody charged with the attempted murder of a catholic policeman in county tyrone .
+
+@xsum.test.4.bert.pt [736]:  
+police investigating the suspected murder of a woman missing for 15 months have discovered a body .
+
+@xsum.test.4.bert.pt [850]:  
+lecturers at colleges in glasgow will not take part in two planned national strikes next week .
+
+@xsum.test.4.bert.pt [993]:  
+roger federer beat richard gasquet to seal switzerland 's first davis cup triumph , then dedicated the victory to his team-mates .
+
+@xsum.test.4.bert.pt [1078]:  
+four people have been taken to hospital after a three car collision in carmarthenshire .
+
+@xsum.test.4.bert.pt [1106]:  
+musician nick cave 's teenage son took lsd before he fell off a cliff in brighton , an inquest has heard .
+
+@xsum.test.4.bert.pt [1225]:  
+a driving instructor heading to teach a speed awareness class has been jailed for causing a five-car smash that killed an 83-year-old woman .
+
+@xsum.test.4.bert.pt [1317]:  
+controversial plans for a # 12m renewable energy project at a conwy county waterfall beauty spot have been withdrawn .
+
+@xsum.test.4.bert.pt [1468]:  
+gareth bale says wales will be stepping into the unknown on sunday when they attempt to beat israel in cardiff and seal their place at euro 2016 .
+
+@xsum.test.5.bert.pt [2]:  
+the former leader of glasgow city council , gordon matheson , is to leave the authority to become a visiting professor at strathclyde university .
+
+@xsum.test.5.bert.pt [13]:  
+a five-year-old girl has been found with her dead father in a crashed car which had been in a ditch `` for some time '' .
+
+@xsum.test.5.bert.pt [77]:  
+ireland eased to seven-wicket win over zimbabwe to top their women 's world twenty20 qualifying group and set up a semi-final against scotland .
+
+@xsum.test.5.bert.pt [112]:  
+supermarket plant sales are reducing customers ' choice , says gardeners ' world presenter monty don .
+
+@xsum.test.5.bert.pt [218]:  
+airport workers in chile have agreed to end a four-day strike that led to major disruption .
+
+@xsum.test.5.bert.pt [319]:  
+atletico madrid won la liga for the first time since 1996 by securing a draw in a pulsating match at barcelona .
+
+@xsum.test.5.bert.pt [435]:  
+a dog attack on a girl on a beach has led to police releasing a picture of the animal 's owner .
+
+@xsum.test.5.bert.pt [533]:  
+cardiff devils managing director todd kelman says the sheffield steelers have caused a `` media frenzy '' ahead of their challenge cup final on 5 march .
+
+@xsum.test.5.bert.pt [546]:  
+eleven-year-old kai tap sits alone looking pensive as he watches other children sing and play at eden school inside a civilian protection site run by the united nations in south sudan .
+
+@xsum.test.5.bert.pt [659]:  
+some bus services in mid wales facing the axe because the firm which runs them went into administration could be maintained , a council has said .
+
+@xsum.test.5.bert.pt [694]:  
+the department for regional development breached public contract regulations in rejecting a tender for a road contract worth up to # 100m , a high court judge has ruled .
+
+@xsum.test.5.bert.pt [739]:  
+ross county have completed the signing of central midfielder tim chow on a two-year contract .
+
+@xsum.test.5.bert.pt [851]:  
+a son of jean mcconville has said sinn féin leader gerry adams warned him several years ago there would be a `` backlash '' if he released the names of those he believed killed her .
+
+@xsum.test.5.bert.pt [995]:  
+italy 's first female astronaut , samantha cristoforetti , is spending almost six months on the international space station .
+
+@xsum.test.5.bert.pt [1077]:  
+two police officers have been sacked after an inquiry found their claim to be the first indian couple to climb everest was fake .
+
+@xsum.test.5.bert.pt [1108]:  
+new leicester boss craig shakespeare says he is `` not looking beyond this season '' despite being backed by his players to get the job longer term .
+
+@xsum.test.5.bert.pt [1225]:  
+two powerful earthquakes have struck china 's north-west gansu province , killing at least 75 people and leaving more than 400 others injured .
+
+@xsum.test.5.bert.pt [1317]:  
+a man has been jailed for the hit-and-run death of a four-year-old girl who was struck by his speeding car when it mounted a pavement in merseyside .
+

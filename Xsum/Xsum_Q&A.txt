@@ -1,0 +1,459 @@
+@xsum.test.0.bert.pt [0]:
+When was the qualifier supposed to be? On Friday.
+Where was the qualifier supposed to be? Between Northern Ireland and the Czech Republic.
+Why was the qualifier postponed? Because of a serious accident.
+
+@xsum.test.0.bert.pt [1]:
+Where is the car park? In east Belfast.
+Who closed the car park? Young men.
+
+@xsum.test.0.bert.pt [2]:
+What did the car accident lead to? The death of a 78-year-old man.
+Who was involved in the car accident? Venus Williams.
+What is the star’s nationality? US.
+
+@xsum.test.0.bert.pt [3]:
+Who told Ghana not to begin new drilling for oil? International Tribunal.
+Why is Ghana not allowed to begin drilling? Because of disputed waters with the Ivory coast.
+
+@xsum.test.0.bert.pt [4]:
+Who is under pressure? Theresa.
+What is the pressure about? Whether she knew about a reported misfire.
+When does the pressure require her to say? Before a crucial commons vote.
+
+@xsum.test.0.bert.pt [5]:
+What does a gas extraction method trigger? Two earth tremors near blackpool.
+What should be tightening according to experts? Rules governing it.
+When does a gas extraction method trigger two earth tremors near blackpool? Last year.
+
+@xsum.test.0.bert.pt [6]:
+When was Choe Peng Sum given a fairly simple brief? On the first day in his new job.
+What is the content of the brief? “just go make us a lot of money”
+
+@xsum.test.0.bert.pt [7]:
+How many campaigners have been appointed cbe? Two.
+When were campaigners appointed cbe? In the new year.
+
+@xsum.test.0.bert.pt [8]:
+What is Nadia Rose’s ranking on the bbc’s sound of 2017 list? Fifth.
+What is the name of the young UK rapper? Nadia Rose.
+What does the list showcase? Emerging artists for the coming 12 months.
+
+@xsum.test.0.bert.pt [9]:
+What does BBC deny? Claims award-winning series planet earth ii.
+Who denied claims? BBC.
+
+@xsum.test.0.bert.pt [10]:
+Why did Great Britain fail to qualify for a championship? Because of losing all three qualifying games at Kent’s Medway park.
+How many games did Great Britain lose? Three.
+What sport did Great Britain fail? Men’s under-21 hand ball.
+
+@xsum.test.0.bert.pt [11]:
+Who did Atalanta re-signed? Midfielder Marten De Roon.
+Where did Marten De Roon come from? Middlesbrough.
+How long has Atalanta been sold? 14 months.
+
+@xsum.test.0.bert.pt [12]:
+What are the five sisters an imposing reminder of? West Lothian’s industrial past.
+What used to dominat the economy? Huge mounds of discard from the old shale mines.
+Where does the five sisters come from? Livingston.
+
+@xsum.test.0.bert.pt [13]:
+Who has promised labour will work? Jeremy Corbyn.
+What is condition of working with business leaders? They live up to their side of the deal.
+
+@xsum.test.0.bert.pt [14]:
+What has China done? China has deployed surface-to-air missiles on a disputed island in the south china sea.
+Where did China deploy missiles? In the south China sea.
+Who gave the claim? Taiwan.
+
+@xsum.test.0.bert.pt [15]:
+Who is the Football Association chairman? Greg dyke.
+Which team is closed to a deal to play home games? Tottenham.
+
+@xsum.test.0.bert.pt [16]:
+When will Sir Tom Jones return? When it moves to Itv next year.
+What will Tom Jones return as? One of judges on talent show the Voice UK.
+
+@xsum.test.0.bert.pt [17]:
+Who warned about the intimidation? Head teachers.
+What have head teacher warned? Intimidation is still continuing after the investigation into the so-called Trojan horse scandal.
+
+@xsum.test.0.bert.pt [18]:
+How much is the investment? 250m.
+What is the investment used for? Improving grassroots facilities.
+What association is leading the investment? The lawn tennis association -lrb- lta -rrb-.
+
+@xsum.test.0.bert.pt [19]:
+Who is the goal hero? Rabin Omar.
+When did Rabin made headlines? When his slub from the fourth tier of Scottish football dumped a premiership side out of the Scottish cup.
+
+@xsum.test.0.bert.pt [20]:
+Where did the security alert happen? In the centre of Larnel, county Antrim.
+What has the alert been declared as? A hoax.
+
+@xsum.test.0.bert.pt [21]:
+What did the woman set? “honey trap”.
+Who did the woman set a “honey trap” for? A professional gambler.
+Who has been jailed for 16 year? A woman.
+
+@xsum.test.0.bert.pt [22]:
+What will the collapsed retailer BHS do? To re-launch as an online shop.
+What will the online shop sell? Some of the most popular items previously available on its website.
+
+@xsum.test.0.bert.pt [23]:
+Who is Danny Butterfield? An exeter city player-coach.
+How about Danny Butterfield’s playing career? His playing career is coming to an end.
+
+@xsum.test.0.bert.pt [24]:
+Where did the collision happen? On the a9 near Dingwall in the highlands.
+How many people get injured? Several people.
+How many cars in the collision? Three cars.
+
+@xsum.test.0.bert.pt [25]:
+What does the election night become? A night of contrasting fortunes for the conservative and unionist party.
+What has turned out to be a night of contrasting fortunes? Election night.
+
+@xsum.test.0.bert.pt [26]:
+Who has been released? A US freelance photographer.
+How long has the photographer been held? For almost four years.
+
+@xsum.test.0.bert.pt [27]:
+What is the plan about? To cut free parking on roads around the royal Berkshire hospital.
+How many people opposed the plan? More than 2300 people.
+
+@xsum.test.0.bert.pt [28]:
+What did the public prosecution service say? It will not oppose an appeal by one of the so-called Colombia three against a weapons conviction.
+What does one of the so-called Colombia three against? A weapons conviction.
+
+@xsum.test.0.bert.pt [29]:
+What did holders Sevilla earn? A draw against Shakhtar Donetsk.
+Where was the semi-final held? In Iviv.
+
+@xsum.test.0.bert.pt [30]:
+What will Australia no longer to do? To appoint knights and dames under its honours system.
+Who announced the news? PM Malcolm Turnbull.
+
+@xsum.test.0.bert.pt [31]:
+What did a pro-refugee campaigner do? Racially abusing counter demonstrators at a rally.
+Why did a pro-refugee campaigner do it? To welcome Syrian refugees to Scotland.
+
+@xsum.test.0.bert.pt [32]:
+What has the duchess of Cornwall used? The currency accepted by businesses in south London.
+What is the currency accepted by businesses in south London known as? Brixton pounds.
+Where did the duchess use the currency? On a visit to a local market.
+
+@xsum.test.0.bert.pt [33]:
+What did the crisis in the steel industry signal? Potential problems across other core Welsh industries.
+Who warned the crisis? Plaid Cymru.
+
+@xsum.test.0.bert.pt [34]:
+What are game rangers searching for? A lion.
+Where did the lion escaped from? A wildlife park in south Africa’s western Cape province.
+
+@xsum.test.0.bert.pt [35]:
+What were little children doing before rushing forward? Trailing round behind us.
+Where did children herd us into? Their makeshift schoolroom.
+
+@xsum.test.0.bert.pt [36]:
+How long has the victim of a pensioner been jailed? 13 years.
+What was the victim of a pensioner jailed for? Horrific sex attacks.
+What did the victim of a pensioner tell? The abuse that ruined her life.
+
+@xsum.test.0.bert.pt [37]:
+What has left citizens agog? A rare spat among Singapore’s first family.
+What is the debate on? On how the city-state’s founding father Lee Kuan Yew should be remembered.
+
+@xsum.test.0.bert.pt [38]:
+What is a new picture about? The queen to appear on coins.
+Has the new picture been unveiled? Yes.
+
+@xsum.test.0.bert.pt [39]:
+Where will reigning champion Saracens host? In Leicester.
+Where will Exeter stay when in semi-final? At home.
+
+@xsum.test.0.bert.pt [40]:
+How many time did Gloucester reach their European challenge cup final in three seasons? Two.
+Where did they win an absorbing semi-final? At La Rochelle.
+
+@xsum.test.0.bert.pt [41]:
+What will the French government do? Taking steps to break up a far-right group allegedly linked to the death of a left-wing activist.
+What is the far-right group linked to? The death of a left-wing activist.
+
+@xsum.test.0.bert.pt [42]:
+When were the remains of dozens of people buried? More than 200 years ago.
+What are being exposed? The remains of dozens of people.
+Where are the remains being exposed on? On an island in Kent.
+
+@xsum.test.0.bert.pt [43]:
+What were found at a flat? The body of a 30-year-old man.
+How old is the dead man? 30.
+Where were the body found? At a flat in Falkirk.
+
+@xsum.test.0.bert.pt [44]:
+How many people exposed to water contaminated with arsenic? 20 million people.
+What is the water contaminated with? Arsenic.
+
+@xsum.test.0.bert.pt [45]:
+Who played an Ewok? Warwick Davis.
+What has Davis done? He has taken to Twitter to help recover his stolen caravan.
+
+@xsum.test.0.bert.pt [46]:
+How many people were arrested for sedition charge? 15.
+What did 15 Muslim men do during the champions trophy cricket final? Shouting “anti-india and pro-Pakistan”.
+
+@xsum.test.0.bert.pt [47]:
+How many people got injured? 4.
+How many people have been arrested? 3.
+
+@xsum.test.0.bert.pt [48]:
+How long does the consultation last? Four months.
+What does the consultation help? Deciding the location of UK’s first spaceport ends on Monday with one site in Gwynedd being considered.
+
+@xsum.test.0.bert.pt [49]:
+What is the weather like when England demolished South Africa in Twickenham? Rain-soaked.
+How many matches has England win? 10.
+
+@xsum.test.3.bert.pt  [3]
+How old was the man died at a flat in Saltcoats? 72
+Where is the Saltcoats? In North Ayrshire
+
+@xsum.test.3.bert.pt  [12]
+How many school staff members were arrested? 3
+Why were the school staff members arrested? Because a teenage pupil got seriously injured 
+Where did the teenage pupil get injured? In a swimming pool
+
+@xsum.test.3.bert.pt  [115]
+Who was died according to an inquest? An antiques roadshow expert
+What caused the expert's death? Neglect and gross failure by hospital staff
+
+@xsum.test.3.bert.pt  [213]
+How old is the man who has been arrested? 30
+Where was the man when he has been arrested? At Heathrow Airport
+Who arrested the man? Counter-terror police
+
+@xsum.test.3.bert.pt  [322]
+What did campaigners fight against? Against the erection of wind turbines in lincolnshire
+How many wind turbines will be installed? 8
+When did the march start? Ahead of a public inquiry
+
+@xsum.test.3.bert.pt  [435]
+When has the US regained top as the biggest investor in clean energy? In 2011
+Which country was the top1 before the US regained top？China
+
+@xsum.test.3.bert.pt  [546]
+What have police done? They have named a man's death
+Why did the man die? Because the forklift truck toppled over when he was driving it
+How old is the man? 52 years old
+
+@xsum.test.3.bert.pt  [660]
+What was closed in Birmingham? Part of the m6
+How long has part of the m6 been closed? Almost 24 hours
+What were involved in the fatal collision？A lorry and a car
+
+@xsum.test.3.bert.pt  [738]
+What is Donald Trump expected to do? He is expected to indicate later that he is sending more troops to afghanistan
+Why does Trump want to send more troops to afghanistan? To prolong a war-weary america's longest conflict
+
+@xsum.test.3.bert.pt  [851]
+When did the bomb attacks happen? In July 2005
+Where did the bomb attacks happen? On london
+What did Tony Blair do after the bomb attacks? He summoned the media to Downing Street for a news conference
+
+@xsum.test.3.bert.pt  [963]
+Who is the ex-manchester city and united striker? Carlos Tevez
+Which club did Carlos Tevez sign with? Shanghai Shenhua
+When did the club confirm the news? On Thursday
+
+@xsum.test.3.bert.pt  [1077]
+Who was named the Swindon's manager? Luke Williams
+Which team did Michael Doughty fight against at his first game in Swindon? Millwall
+What was the result of the game? A draw
+
+@xsum.test.3.bert.pt  [1106]
+What did Kevin Brown do in the game against his former club? He scored a hat-trick
+Which club does Kevin Brown now belong to? He belongs to Warrington now
+What does Warrington become after this game? The top eight of the Challenge Cup
+
+@xsum.test.3.bert.pt  [1221]
+Which company's shares plunged 13.5%? Japanese automaker Mitsubishi Motors
+When did the shares plunge? Friday
+How much was the shares when stockmarkets closed? 504 yen
+
+@xsum.test.3.bert.pt  [1317]
+Why was the police officer sacked? Because this police officer leaked too much information about the "plebgate" affair
+How many Met PC have been sacked for gross misconduct? 3
+
+@xsum.test.3.bert.pt  [1473]
+Where did the 9.1-magnitude earthquake happen? The coast of Banda Aceh, Indonesia
+When did the earthquake happen? On 26 December 2004
+How many have been killed? More than 230,000
+
+@xsum.test.4.bert.pt  [0]
+Whom is the memorial built for? For the Jersey men who died in World War I
+Where is the memorial? In the Somme region of France
+
+@xsum.test.4.bert.pt  [12]
+What is S4C? It is a Welsh-language channel
+What did the MPs call for? MPs called on the UK government not to cut S4C's funding
+
+@xsum.test.4.bert.pt  [115]
+Why has the convicted killer been sent back to jail? Becasuse he admitted carrying out a brutal attack
+When did the brutal attack happen? It happened on Christmas day
+When was the killer sent back to jail? Months after being freed early
+
+@xsum.test.4.bert.pt  [215]
+Who has announced plans to create new jobs? Retailer Watt Brothers
+How many new jobs will be created? 350
+How many new stores will Watt Brothers open? 6
+
+@xsum.test.4.bert.pt  [323]
+Why were the two teenagers arrested? Because they stabbed a young boy
+How old is the boy who was stabbed? 16 years old
+What did the boy suffer in the stabbing in Brighton? He suffered "potentially life threatening injuries"
+
+@xsum.test.4.bert.pt  [437]
+What does Liberty House plan to do? It plans to submit a formal bid to buy Tata steel 's UK assets
+When will Liberty House submit the formal bid? On Tuesday
+How many people does the Port Talbot Steel Works employ? About 4,000 people
+
+@xsum.test.4.bert.pt  [545]
+How many British soldiers have been jailed? 4
+What did the British soldiers try to do? They tried to smuggle guns and drugs
+Where did the British soldiers want to smuggle guns and drugs into? the UK
+
+@xsum.test.4.bert.pt  [657]
+What was the man charged with? The attempted murder of a catholic policeman
+Where did the attempted murder happen? In County Tyrone
+
+@xsum.test.4.bert.pt  [736]
+What have the police discoverd when they investigated a suspected murder? A body of a woman
+How long has the woman been missing? 15 months 
+
+@xsum.test.4.bert.pt  [850]
+Where are the lecturers from? They from Colleges in Glasgow
+What did lecturers say about the national strikes? They will not take part in national strikes
+How many national strikes were planned next week? 2
+
+@xsum.test.4.bert.pt  [908]
+What do the Egyptian investigator say? They say they have so far found no evidence that terrorism caused the Russian jet to crash
+When did the crash happen? In october 
+How many people were killed by the crash? 224
+
+@xsum.test.4.bert.pt  [1078]
+Where did the car collision happen? In Carmarthenshire
+How many cars have collided? 3
+How many people were sent to hospital after the collision? 4
+
+@xsum.test.4.bert.pt  [1106]
+Who fell off a cliff? Musician Nick Cave's teenage son
+Where did Nick Cave's son fall off a cliff? In brighton
+What did Nick Cave's son do before he fell off a cliff? He took LSD
+
+@xsum.test.4.bert.pt  [1225]
+Who has been jailed? A driving instructor heading to teach a speed awareness class
+What has the driving instructor been jailed for? Causing a five-car smash that killed a woman
+How old was the woman who was killed? 83 years old
+
+@xsum.test.4.bert.pt  [1317]
+What is Dario Fo famous for? He is famous for his cutting political satires
+Where did Dario Fo die? In Milan
+How old is Dario Fo when he died? 90 years old
+
+@xsum.test.4.bert.pt  [1479]
+Who has pleaded guilty to a cyber attack? A teenager(David Buchanan)
+Which site did the teenager attack? Mumsnet
+How many members' passwords have been reset? 7.7 million
+
+@xsum.test.4.bert.pt  [1511]
+What is Petrobras? Brazil's state-run oil company
+Who has accuesd the politicians of involvement in a kickback scheme? An ex-director of Petrobras
+How many politicians may involve in the kickback scheme? More than 40
+
+@xsum.test.5.bert.pt  [2]
+Who is the former leader of glasgow city council? Gordon Matheson
+What will Gordon Matheson become after leaving the authority? A visiting professor
+Which university will Gordon Matheson go? University of Strathclyde
+
+@xsum.test.5.bert.pt  [13]
+Who were found in the crashed car? A girl and her father
+How old is the girl? 5 years old
+Where was the crashed car when people found it? In a ditch
+
+@xsum.test.5.bert.pt  [77]
+What happened to the man? He was tortured and raped by his former friends
+Where did he suffer the attack? In a belfast flat
+How many of the man's former friends raped him? 2
+
+@xsum.test.5.bert.pt  [112]
+Who is Monty Don? A Gardeners' World presenter
+What does Monty Don say? He says supermarket plant sales are reducing customers' choice
+
+@xsum.test.5.bert.pt  [218]
+What have airport workers agreed to do? They have agreed to end the four-day strike
+Where did the strike happen? In Chile
+What did the strike cause? It led to major disruption
+
+@xsum.test.5.bert.pt  [319]
+Which team won the La Liga? Atletico Madrid
+Where did Atletico Madrid secure a draw? In a pulsating match at Barcelona
+When did Atletico Madrid win La Liga last time? 1996
+
+@xsum.test.5.bert.pt  [435]
+What happened on the beach? A dog attacked a girl
+What did the police do after hearing the attack? They released a picture of the animal's owner
+
+@xsum.test.5.bert.pt  [533]
+Who is Todd Kelman? Cardiff Devils managing director
+What did the Sheffield Steelers cause? A "media frenzy"
+When is the Challenge Cup Final? On 5 march
+
+@xsum.test.5.bert.pt  [663]
+How many students disappeared? 43
+Where are the students from? From a rural teaching school in Ayotzinapa
+How long has it been since the students disappeared? More than 4 months
+
+@xsum.test.5.bert.pt  [693]
+How many British nationals have been detained? 9
+Why have the British nationals been detained? Because they tried to enter Syria illegally
+Where were the British nationals detained? In Turkey
+
+@xsum.test.5.bert.pt  [739]
+Who did Ross County sign with? Central midfielder Tim Chow
+How many years will Tim Chow play for Ross County? 2 years
+
+@xsum.test.5.bert.pt  [826]
+How many CCTV cameras does George Clooney plan to install? 18
+Where does George Clooney plan to install CCTV cameras? At his Oxfordshire home
+Who have lodged objections to the George Clooney's plans? George Clooney's neighbours
+
+@xsum.test.5.bert.pt  [995]
+Who is Samantha Cristoforetti? Italy's first female astronaut
+How long have Samantha Cristoforetti lived on the international space station? Almost six months
+
+@xsum.test.5.bert.pt  [1060]
+What has the child sufferd after being hit by a car? Serious injuries
+How old is the child? 10
+Where was the child hit by a car? In the Vale of Glamorgan
+
+@xsum.test.5.bert.pt  [1122]
+Who is Bob Appleyard Mbe? Former Yorkshire and England off-spinner
+How old was Appleyard when he died? 90
+
+@xsum.test.5.bert.pt  [1134]
+Who is the former Italian Prime-Minister? Silvio Berlusconi
+How long will the sentence reduce to under an amnesty? 12 months
+What does Silvio Berlusconi request to do by submitting a formal request? To perform a year of community service
+
+@xsum.test.5.bert.pt  [1225]
+What happend in northwest China's Gansu Province? Two powerful earthquakes
+How many people were died because of the earthquakes? At least 75
+How many people get injured? More than 400
+
+@xsum.test.5.bert.pt  [1317]
+Why has the man been jailed? The hit-and-run death of a girl
+How old is the girl? 4
+Where did the accident happen? A pavement in Merseyside
+
+
+
